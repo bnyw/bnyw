@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bnyw
 - 👀 I’m interested in Deep Learning, Microcontroller, Signal Processing
 - 🌱 I’m currently learning all of the above
-- 💞️ I’m looking to collaborate on anything that give me the experience
+- 💞️ I’m looking to collaborate on anything that gives me some fun experience
 - 📫 How to reach me : bunyawe_te@hotmail.com
 
 <!---
